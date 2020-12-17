@@ -61,7 +61,7 @@ li{
 }
 
 .content{
-    margin: 0 auto;
+    margin: auto;
 }
 p{
     text-align: center;
@@ -95,7 +95,7 @@ text-align: center;
 
 }
 h1{
-    display: inline;
+    /* display: inline; */
     width: 100%;
     text-align: center;
     margin-left: auto;
